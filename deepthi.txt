@@ -1,1 +1,2 @@
-his is deepthi
+This is Deepthi
+this is my git hub demo
